@@ -1,4 +1,4 @@
-# Next.js with TypeScript example
+# Guestline - Next.js with TypeScript
 
 ## How to use
 
